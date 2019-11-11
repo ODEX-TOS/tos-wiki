@@ -38,8 +38,6 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -56,32 +54,13 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-```sh
-pacman -Syu tos-wiki
-```
-
-### Installation
- 
-1. Clone the tos-wiki
-```sh
-git clone https:://github.com/ODEX-TOS/tos-wiki.git
-```
-2. Install packages
-```sh
-pacman -Syu tos-wiki
-```
+This wiki is currently hosted on [readme.io](https://tos.readme.io)
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+We should migrate from readme.io to our own wiki.js instance.
 
 _For more examples, please refer to the [Documentation](https://tos.pbfp.xyz/blog)_
 
