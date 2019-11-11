@@ -62,4 +62,11 @@ This will start the bootup sequence. After a few seconds/minutes you will be pre
   "body": "Depending on the type of usb port/key the bootup sequence can take longer. Since older usb's are rather slow."
 }
 [/block]
-When using the awesome edition you will be presented with a tutorial. It is recommended that you follow this tutorial to the letter. For more information about our `awesome` edition please visit the navigation section
+When using the awesome edition you will be presented with a tutorial. It is recommended that you follow this tutorial to the letter. For more information about our `awesome` edition please visit the navigation section.
+[block:callout]
+{
+  "type": "warning",
+  "title": "When ready to install",
+  "body": "Open up a terminal (mod+Enter) and type in tos c. This will start the installer"
+}
+[/block]
